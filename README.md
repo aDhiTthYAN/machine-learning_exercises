@@ -4,7 +4,7 @@ This notebook focuses on detecting and treating outliers in a house price datase
 
 ### Dataset Description
 
-The dataset used contains various features related to houses, such as total square footage, number of bathrooms, number of bedrooms, and price.
+The dataset used contains various features related to houses, such as total square feet, number of bathrooms, number of bedrooms, and price.
 
 ### Correlation Analysis
 
